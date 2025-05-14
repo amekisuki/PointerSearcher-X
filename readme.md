@@ -4,6 +4,10 @@
 
 ([中文](./readme-zh-hans.md) / [English](./readme.md))
 
+Blog posts:
+1. https://kekeimiku.github.io/post/pointersearch1/
+2. https://kekeimiku.github.io/post/pointersearch2/
+
 ## Support:
 
 - [x] aarch64-darwin
